@@ -2,6 +2,9 @@
 
 MonkWrite is a distraction-free writing environment for Android phones and tablets. It is designed for fast, keyboard-driven writing with a focus on stability and simplicity. MonkWrite requires a keyboard, optimally a Bluetooth Keyboard. I developed and tested it on a Keychron B1 Pro.
 
+MonkWrite includes ergonomically tuned color themes designed for long-form writing comfort on Android displays. Themes emphasize low eye strain, high readability, and carefully balanced cursor contrast for distraction-free focus sessions. Several palettes are specifically designed to mimic the visual softness and reduced glare characteristics of classic e-ink writing devices while remaining responsive on modern Android tablets and external keyboard setups.
+
+
 Installation : MonkWritev0.1-debug.apk is an Android app package produced by Android Studio. It is intended for beta test purposes for eventual uploading to the Google Play Store. After downloading the app to your device you can select it and the launch will start. At that point Android will warn you about unsafe apps and if you want to proceed. Grant permission (you may to allow in Settings) and it should install. I tested it on a Lenovo Tab One (2025), a Samsung S24 (2024), A Moto G (2022). It failed to launch on a Samsung Galaxy Tab A (2019). If you have an older Android installed on your device it may not run. I may take a look at this in future revs.
 
 ## Key Features
